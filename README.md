@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Добро пожаловать в удивительный, опасный и завораживающий мир Time to be heroes!
 
-You can use the [editor on GitHub](https://github.com/lLANl/lLANl.rep/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+В этом мире тебя ждет множество приключений, интересный и захватывающий мир, сражения, развитие и даже возможность заработать реальные деньги!
+Мы постоянно работаем над игрой и развиваем не только внутренний мир, но и Ваши возможности в нем!
+Мы будем стараться вместе с вами расти и развиваться, будем участвовать в масштабных сражениях за замки и территории, отбиваться от вражеских орд, осваивать и отстраивать новые города и замки, набирать рекрутов в войско и возглавлять его, а может и просто будем одним из тех, кто воюет под чьим-то началом.
+Мы все Герои и наша задача принести мир и процветание своей Фракции, Клану, Альянсу и Королевству!
+Бери свое оружие, доспехи и отправляйся с нами!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
